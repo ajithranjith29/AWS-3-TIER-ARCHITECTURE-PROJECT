@@ -3,7 +3,7 @@
 
 This project demonstrates the manual deployment of a 3-tier architecture on AWS for an open-source Netflix clone. The architecture consists of a web tier, an application tier, and a database tier, integrated with various AWS resources.
 
-![Architecture diagram](main/aws-arch.png)
+![Architecture diagram](aws-arch.png)
 
 
 ## Steps to Deploy
